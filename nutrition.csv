@@ -1,0 +1,698 @@
+Ages,Gender,Height,Weight,Activity Level,Dietary Preference,Daily Calorie Target,Protein,Sugar,Sodium,Calories,Carbohydrates,Fiber,Fat,Disease
+25,Male,180,80,Moderately Active,Omnivore,2000,120,125,24,2020,250,30,60,Weight Gain
+32,Female,165,65,Lightly Active,Vegetarian,1600,80,100,16,1480,200,24,40,"Weight Gain, Hypertension, Heart Disease"
+48,Male,175,95,Sedentary,Vegan,2200,100,150,20,2185,300,36,65,Weight Gain
+55,Female,160,70,Very Active,Omnivore,2500,140,175,28,2680,350,42,80,Weight Gain
+62,Male,170,85,Sedentary,Vegetarian,2000,80,125,16,1815,250,30,55,Weight Gain
+68,Female,155,60,Lightly Active,Vegan,1800,70,110,14,1565,220,26.4,45,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+28,Male,190,100,4,Omnivore,3000,180,175,,2840,350,42,80,Weight Gain
+35,Female,170,75,Very Active,Vegetarian,2400,120,,24,2220,300,36,60,Weight Gain
+42,Male,185,110,Moderately Active,Vegan,3200,160,200,32,3005,400,48,85,Weight Gain
+58,Female,168,78,Sedentary,Vegan,1900,75,115,15,1670,230,27.6,50,"Weight Gain, Kidney Disease"
+25,Male,180,80,Lightly Active,Omnivore,2000,120,125,24,2020,250,30,60,Weight Gain
+32,Female,165,65,Moderately Active,Vegan,2200,100,150,20,2230,300,36,70,Weight Gain
+48,Male,175,95,Sedentary,Vegetarian,2400,100,175,20,2520,,42,80,Weight Gain
+55,Female,160,70,Moderately Active,Omnivore,1800,100,100,20,1650,200,24,50,Weight Gain
+62,Male,170,85,Very Active,Vegan,3000,150,200,30,3100,400,48,100,Weight Gain
+28,Female,172,60,Lightly Active,Vegan,2000,100,125,20,1940,250,30,60,Weight Gain
+35,Male,185,90,Very Active,Omnivore,2500,150,150,30,2520,300,36,80,Weight Gain
+40,Female,168,75,Moderately Active,Vegetarian,2200,100,150,20,2230,300,36,70,Weight Gain
+22,Male,190,100,Lightly Active,Omnivore,2800,160,,32,2850,350,42,90,Weight Gain
+58,Female,155,68,Sedentary,Vegan,1600,80,90,16,1400,180,21.6,40,"Weight Gain, Hypertension, Heart Disease"
+24,Female,165,55,Lightly Active,Omnivore,1800,100,125,20,1850,250,30,50,Weight Gain
+38,Male,180,80,Moderately Active,Omnivore,2800,160,175,32,2760,350,42,80,Weight Gain
+55,Female,160,70,Sedentary,Vegetarian,1600,80,100,16,1480,200,24,40,"Weight Gain, Hypertension, Heart Disease"
+62,Male,175,95,Moderately Active,Omnivore,2200,120,140,24,2140,280,33.6,60,Weight Gain
+28,Female,170,65,Very Active,Vegan,2400,140,160,28,2470,320,38.4,70,Weight Gain
+45,Male,185,100,Lightly Active,Omnivore,2000,110,125,22,1890,250,30,50,Weight Gain
+68,Female,155,60,Sedentary,Vegan,1400,70,90,14,1315,180,21.6,35,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+32,Male,190,90,Very Active,Omnivore,3000,180,200,36,3130,400,48,90,Weight Gain
+58,Male,170,85,Moderately Active,Vegetarian,1900,100,120,20,1810,240,28.8,50,Weight Gain
+22,Female,160,50,Lightly Active,Vegan,1500,80,100,16,1480,200,24,40,"Weight Gain, Hypertension, Heart Disease"
+25,Female,165,60,Lightly Active,Omnivore,1800,80,100,16,1660,200,24,60,Weight Gain
+38,Male,180,85,Moderately Active,Vegetarian,2800,150,125,30,2320,250,30,80,Weight Gain
+55,Female,160,65,Sedentary,Vegan,1600,65,90,13,1430,180,21.6,50,"Weight Gain, Kidney Disease"
+42,Male,190,95,Very Active,Omnivore,3200,200,150,40,2900,300,36,100,Weight Gain
+62,Female,155,58,Sedentary,Vegan,1400,55,75,11,1180,,18,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+28,Male,175,70,Moderately Active,Omnivore,2500,130,110,26,2030,220,26.4,70,Weight Gain
+31,Female,170,75,Lightly Active,Vegetarian,1700,70,95,14,1490,190,22.8,50,"Weight Gain, Kidney Disease"
+58,Male,185,90,Moderately Active,Omnivore,2400,100,120,20,1990,240,28.8,70,Weight Gain
+22,Female,168,55,Very Active,Vegan,2200,110,100,22,1780,200,24,60,Weight Gain
+45,Male,182,80,Lightly Active,Omnivore,2000,90,110,18,1780,220,26.4,60,Weight Gain
+25,Male,180,80,Moderately Active,Omnivore,2200,120,125,24,2020,250,30,60,Weight Gain
+32,Female,165,65,Lightly Active,Vegetarian,2000,100,100,20,1740,200,24,60,Weight Gain
+55,Male,175,90,Sedentary,Vegan,2000,80,125,16,1770,250,30,50,Weight Gain
+68,Female,160,75,Lightly Active,Omnivore,1800,80,90,16,1490,180,21.6,50,Weight Gain
+28,Male,185,95,Very Active,Omnivore,3000,160,175,32,2760,,42,80,Weight Gain
+38,Female,170,70,Moderately Active,Vegan,1800,80,100,,1570,200,24,50,Weight Gain
+62,Male,170,85,Sedentary,Omnivore,2200,80,135,16,1940,270,32.4,60,Weight Gain
+45,Female,168,60,Very Active,Vegetarian,2400,120,140,24,2230,280,33.6,70,Weight Gain
+22,Female,172,55,Moderately Active,Vegan,1800,80,100,16,1570,200,24,50,Weight Gain
+58,Male,178,98,Sedentary,Omnivore,2000,80,125,16,1770,250,30,50,Weight Gain
+25,Male,180,85,Lightly Active,Omnivore,2000,,125,24,2065,250,30,65,Weight Gain
+32,Female,165,60,Moderately Active,Vegetarian,2200,100,150,20,2230,300,36,70,Weight Gain
+48,Male,175,95,Very Active,Omnivore,2800,150,175,30,2810,350,42,90,Weight Gain
+55,Female,160,70,Sedentary,Vegan,1600,80,100,16,1570,200,24,50,Weight Gain
+28,Male,185,90,Moderately Active,Vegan,2600,130,175,26,2640,350,42,80,Weight Gain
+62,Female,155,65,Lightly Active,Omnivore,1800,90,110,18,1780,220,26.4,60,Weight Gain
+35,Female,170,75,Very Active,Vegetarian,2400,110,160,22,2395,320,38.4,75,Weight Gain
+22,Male,190,80,Moderately Active,Vegan,2100,100,135,20,2065,270,32.4,65,Weight Gain
+58,Male,178,100,Sedentary,Omnivore,2400,120,150,24,2355,300,36,75,Weight Gain
+40,Female,168,72,Lightly Active,Vegetarian,2000,90,125,18,1945,250,30,65,Weight Gain
+25,Male,180,80,Moderately Active,Omnivore,2800,160,175,32,2760,350,42,80,Weight Gain
+32,Female,165,60,Lightly Active,Vegetarian,1800,100,110,20,1730,220,26.4,50,Weight Gain
+55,Male,175,90,Sedentary,Omnivore,2200,120,125,24,2020,250,30,60,Weight Gain
+28,Female,170,65,Very Active,Vegan,2400,140,150,28,2390,300,36,70,Weight Gain
+62,Female,160,70,Lightly Active,Omnivore,1600,80,90,16,1400,180,21.6,40,"Weight Gain, Hypertension, Heart Disease"
+21,Male,190,95,Moderately Active,Omnivore,3000,180,200,36,3130,400,48,90,Weight Gain
+35,Female,168,55,Sedentary,Vegetarian,1500,80,80,16,1320,160,19.2,40,"Weight Gain, Hypertension, Heart Disease"
+68,Female,155,65,Lightly Active,Vegetarian,1700,80,95,16,1530,190,22.8,50,Weight Gain
+25,Female,165,60,Lightly Active,Omnivore,1800,100,100,20,1740,200,24,60,Weight Gain
+32,Male,180,85,Moderately Active,Omnivore,2800,180,150,36,2640,300,36,80,Weight Gain
+48,Female,170,75,Sedentary,Vegetarian,2000,80,110,16,1830,,26.4,70,Weight Gain
+55,Male,175,90,Moderately Active,Vegan,2500,160,140,32,2390,280,33.6,70,Weight Gain
+62,Female,160,65,Lightly Active,Vegan,1600,80,90,16,1490,180,21.6,50,Weight Gain
+28,Male,190,100,Very Active,Omnivore,3200,200,175,40,3010,350,42,90,Weight Gain
+35,Female,168,55,Sedentary,Vegetarian,1500,70,,14,1410,170,20.4,50,"Weight Gain, Kidney Disease"
+42,Male,185,95,Moderately Active,Vegan,2400,150,130,30,2270,260,31.2,70,Weight Gain
+21,Female,172,58,Lightly Active,Omnivore,1700,90,95,18,1660,190,22.8,60,Weight Gain
+58,Male,178,80,Sedentary,Vegetarian,2100,70,115,14,1830,230,27.6,70,"Weight Gain, Kidney Disease"
+25,Male,180,80,Moderately Active,Omnivore,2000,120,125,24,2020,250,30,60,Weight Gain
+38,Female,165,65,Sedentary,Vegetarian,1800,80,110,16,1740,220,26.4,60,Weight Gain
+62,Male,175,90,Lightly Active,Omnivore,2500,180,150,36,2640,300,36,80,Weight Gain
+45,Female,170,75,Very Active,Vegan,2200,100,140,20,2060,280,33.6,60,Weight Gain
+58,Male,178,85,Sedentary,Omnivore,2200,100,135,20,2110,270,32.4,70,Weight Gain
+22,Female,160,55,Moderately Active,Vegetarian,2000,100,125,20,1940,250,30,60,Weight Gain
+68,Male,170,70,Lightly Active,Omnivore,1800,80,110,16,1740,220,26.4,60,Weight Gain
+30,Female,168,60,Very Active,Vegan,2400,120,150,24,2400,300,36,80,Weight Gain
+55,Female,165,78,Sedentary,Vegetarian,1900,80,115,16,1780,230,27.6,60,Weight Gain
+28,Male,185,100,Moderately Active,Omnivore,2800,160,175,32,,350,42,100,Weight Gain
+25,Female,165,60,Lightly Active,Omnivore,1800,100,100,20,1740,200,24,60,Weight Gain
+32,Male,180,85,Moderately Active,Omnivore,2800,180,175,36,2840,350,42,80,Weight Gain
+55,Female,160,70,Sedentary,Vegetarian,1600,,90,16,1490,180,21.6,50,Weight Gain
+40,Male,190,95,Very Active,Vegan,3200,160,200,32,3050,400,48,90,Weight Gain
+62,Male,175,80,Moderately Active,Omnivore,2400,140,140,28,2310,280,33.6,70,Weight Gain
+28,Female,170,55,Sedentary,Vegan,,70,80,14,1280,160,19.2,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+38,Female,168,65,Lightly Active,Vegetarian,2000,90,110,18,1780,220,26.4,60,Weight Gain
+58,Male,178,85,Moderately Active,Vegan,2800,150,175,30,2720,350,,80,Weight Gain
+22,Male,185,90,Very Active,Omnivore,3000,170,190,34,2920,380,45.6,80,Weight Gain
+45,Female,172,75,Sedentary,Vegan,1700,80,95,16,1530,190,22.8,50,Weight Gain
+28,Female,165,55,Lightly Active,Omnivore,1800,75,100,15,1550,200,24,50,"Weight Gain, Kidney Disease"
+55,Male,180,90,Moderately Active,Vegetarian,2500,90,150,18,2190,300,,70,Weight Gain
+32,Female,170,60,Very Active,Vegan,2400,100,175,20,2340,350,42,60,Weight Gain
+22,Male,190,85,Sedentary,Omnivore,2000,80,125,16,1815,250,30,55,Weight Gain
+62,Female,160,70,Moderately Active,Vegan,1800,70,110,14,1610,220,26.4,50,"Weight Gain, Kidney Disease"
+25,Male,185,95,Lightly Active,Omnivore,2800,120,190,24,2720,380,45.6,80,Weight Gain
+40,Female,175,75,Very Active,Vegetarian,2000,80,125,16,1815,250,30,55,Weight Gain
+38,Male,178,80,Sedentary,Vegan,2200,85,140,17,2045,280,33.6,65,Weight Gain
+20,Female,168,50,Lightly Active,Omnivore,2200,90,150,18,2100,300,36,60,Weight Gain
+58,Male,175,85,Moderately Active,Vegetarian,2300,80,150,16,2150,300,36,70,Weight Gain
+25,Male,175,75,Moderately Active,Omnivore,2200,150,125,30,2140,250,30,60,Weight Gain
+38,Female,165,60,Lightly Active,Vegetarian,1800,100,100,20,1650,200,24,50,Weight Gain
+55,Male,180,90,Sedentary,Omnivore,1800,120,100,24,1640,200,24,40,"Weight Gain, Hypertension, Heart Disease"
+62,Female,160,70,Sedentary,Vegan,1600,80,90,16,1400,180,21.6,40,"Weight Gain, Hypertension, Heart Disease"
+28,Female,170,65,Very Active,Omnivore,2500,180,150,36,2640,300,36,80,Weight Gain
+32,Male,185,85,Moderately Active,Vegan,2000,140,110,28,1890,220,26.4,50,Weight Gain
+68,Male,170,80,Lightly Active,Omnivore,1600,100,90,20,1480,180,21.6,40,"Weight Gain, Hypertension, Heart Disease"
+45,Female,165,65,Very Active,Vegetarian,2300,150,140,30,2350,280,33.6,70,Weight Gain
+72,Female,155,55,Sedentary,Omnivore,1400,70,80,14,1190,160,19.2,30,"Hypertension, Heart Disease, Kidney Disease"
+21,Male,190,95,Moderately Active,Omnivore,2400,160,140,32,2300,280,33.6,60,Weight Gain
+25,Male,180,80,Moderately Active,Omnivore,2200,120,125,24,2020,250,30,60,Weight Gain
+30,Female,165,65,Lightly Active,Vegetarian,2000,100,100,20,1740,200,24,60,Weight Gain
+55,Male,175,90,Sedentary,Omnivore,1800,90,90,18,1530,180,21.6,50,Weight Gain
+22,Female,170,55,Very Active,Vegan,2500,130,150,26,2350,300,36,70,Weight Gain
+60,Female,155,60,Moderately Active,Vegetarian,1600,70,80,,1280,160,19.2,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+28,Male,190,100,Very Active,Omnivore,2800,150,175,30,2720,350,42,80,Weight Gain
+35,Female,160,50,Lightly Active,Vegan,1800,90,90,18,1530,180,21.6,50,Weight Gain
+48,Male,185,95,Moderately Active,Omnivore,2200,110,110,22,1860,220,26.4,60,Weight Gain
+65,Male,170,75,Sedentary,Omnivore,1500,70,75,14,1240,150,18,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+19,Female,168,58,Very Active,Vegan,2300,120,140,24,2140,280,33.6,60,Weight Gain
+25,Male,180,85,Moderately Active,Omnivore,2200,120,125,24,2020,250,30,60,Weight Gain
+38,Female,165,68,Lightly Active,Vegetarian,1800,80,110,16,1650,220,26.4,50,Weight Gain
+55,Male,175,95,Sedentary,Vegan,1900,85,100,17,1545,200,24,45,"Weight Gain, Hypertension, Heart Disease"
+22,Female,160,55,Very Active,Omnivore,2500,150,150,30,2475,300,36,75,Weight Gain
+62,Female,168,72,Sedentary,Vegan,,75,90,15,1380,180,,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+30,Male,190,100,Moderately Active,Omnivore,3000,180,175,36,2930,350,42,90,Weight Gain
+28,Female,170,65,Lightly Active,Vegetarian,1600,70,90,14,1405,180,21.6,45,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+40,Male,185,90,Very Active,Omnivore,2500,130,140,26,2270,280,33.6,70,Weight Gain
+21,Female,168,58,Lightly Active,Vegan,1800,75,100,15,1550,200,24,50,"Weight Gain, Kidney Disease"
+58,Male,178,88,Sedentary,Omnivore,1800,80,100,16,1570,200,24,50,Weight Gain
+25,Female,165,58,Moderately Active,Omnivore,1800,100,100,20,1650,200,24,50,Weight Gain
+32,Male,180,85,Lightly Active,Omnivore,2500,150,150,30,2430,300,36,70,Weight Gain
+55,Female,160,70,Sedentary,Vegetarian,1500,80,75,16,1280,150,18,40,"Weight Gain, Hypertension, Heart Disease"
+40,Male,190,95,Moderately Active,Vegan,2200,120,125,24,2020,250,30,60,Weight Gain
+68,Female,155,62,Sedentary,Vegan,1400,70,65,14,1115,130,15.6,35,"Diabetes, Acne, Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+28,Male,175,78,Very Active,Omnivore,3000,180,175,36,2840,350,42,80,Weight Gain
+35,Female,170,65,Lightly Active,Vegetarian,1900,90,100,18,1655,200,24,55,Weight Gain
+52,Male,185,100,Very Active,Vegan,2800,160,150,32,2560,300,36,80,Weight Gain
+22,Female,168,55,Moderately Active,Vegan,1600,80,90,16,1400,180,21.6,40,"Weight Gain, Hypertension, Heart Disease"
+47,Male,178,80,Sedentary,Omnivore,2100,110,115,22,1900,230,27.6,60,Weight Gain
+28,Female,165,60,Lightly Active,Omnivore,1800,100,100,20,1740,200,24,60,Weight Gain
+35,Male,180,80,Moderately Active,Vegetarian,2500,100,150,20,2320,300,36,80,Weight Gain
+55,Female,160,75,Sedentary,Vegan,1500,75,75,15,1260,150,18,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+62,Male,175,90,Moderately Active,Omnivore,2200,120,125,24,2110,250,30,70,Weight Gain
+22,Female,170,55,Very Active,Omnivore,2400,150,150,30,2520,300,36,80,Weight Gain
+40,Male,185,100,Lightly Active,Vegetarian,2800,120,175,24,2690,350,42,90,Weight Gain
+68,Female,155,65,Sedentary,Omnivore,1800,80,100,16,1660,200,24,60,Weight Gain
+70,Male,170,85,Sedentary,Vegan,1700,80,90,16,1490,180,21.6,50,Weight Gain
+33,Female,168,70,Very Active,Omnivore,2200,100,125,20,2030,250,30,70,Weight Gain
+25,Male,190,95,Moderately Active,Vegan,2500,120,150,24,2400,300,36,80,Weight Gain
+25,Male,180,80,Moderately Active,Omnivore,2200,120,100,24,1820,200,24,60,Weight Gain
+55,Female,165,70,Sedentary,Vegetarian,1800,80,125,16,1770,250,30,50,Weight Gain
+32,Male,190,95,Very Active,Omnivore,3000,160,175,32,2760,350,42,80,Weight Gain
+68,Female,170,65,Lightly Active,Vegan,1500,70,90,14,1360,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+42,Male,185,100,Very Active,Omnivore,2500,140,110,28,2070,220,26.4,70,Weight Gain
+58,Female,160,55,Sedentary,Vegan,1600,60,100,12,1400,200,24,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+35,Male,178,85,Lightly Active,Vegetarian,2000,100,90,20,1570,180,21.6,50,Weight Gain
+72,Male,175,75,Sedentary,Vegan,1700,70,105,14,1480,210,25.2,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+48,Female,168,68,Moderately Active,Omnivore,1900,80,115,16,1690,230,27.6,50,Weight Gain
+25,Male,180,85,Moderately Active,Omnivore,2200,150,125,30,2230,250,30,70,Weight Gain
+32,Female,165,60,Sedentary,Vegetarian,1800,80,100,16,1660,200,24,60,Weight Gain
+55,Female,160,75,Lightly Active,Vegan,1900,85,110,17,1805,220,26.4,65,Weight Gain
+40,Male,185,95,Very Active,Omnivore,3000,200,175,40,3100,350,42,100,Weight Gain
+28,Female,170,70,Moderately Active,Vegetarian,2400,140,140,28,2400,280,33.6,80,Weight Gain
+62,Male,175,80,Lightly Active,Omnivore,2100,110,120,22,2030,240,28.8,70,Weight Gain
+35,Female,168,65,Moderately Active,Vegan,1900,90,110,18,1825,220,26.4,65,Weight Gain
+22,Male,190,90,Very Active,Omnivore,3200,220,190,44,3390,380,45.6,110,Weight Gain
+48,Female,172,78,Sedentary,Vegetarian,2000,95,115,19,1930,230,27.6,70,Weight Gain
+21,Male,183,82,Moderately Active,Vegan,2800,170,160,34,2770,320,38.4,90,Weight Gain
+25,Male,180,80,Moderately Active,Omnivore,2200,120,125,24,2020,250,30,60,Weight Gain
+32,Female,165,65,Lightly Active,Vegetarian,1800,80,110,16,1650,220,26.4,50,Weight Gain
+58,Male,175,95,Sedentary,Omnivore,1800,100,100,20,1650,200,24,50,Weight Gain
+28,Female,170,70,Very Active,Vegan,2500,150,150,30,2430,300,36,70,Weight Gain
+62,Female,160,75,Sedentary,Vegan,1600,70,90,14,1360,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+45,Male,185,105,Moderately Active,Omnivore,2000,110,110,22,1860,220,26.4,60,Weight Gain
+21,Female,168,55,Lightly Active,Vegetarian,2000,100,125,20,1940,250,30,60,Weight Gain
+68,Male,170,85,Sedentary,Omnivore,1800,80,100,16,1570,200,24,50,Weight Gain
+35,Female,172,68,Very Active,Vegan,2400,140,140,28,2310,280,33.6,70,Weight Gain
+55,Female,158,60,Sedentary,Vegan,1500,60,80,12,1240,160,19.2,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+25,Female,165,55,Lightly Active,Omnivore,1800,70,90,14,1450,180,21.6,50,"Weight Gain, Kidney Disease"
+58,Male,180,90,Moderately Active,Vegetarian,2500,90,125,18,1990,250,30,70,Weight Gain
+32,Female,170,65,Sedentary,Vegan,1500,60,75,12,1200,150,18,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+62,Male,175,85,Very Active,Omnivore,3000,120,150,24,2400,300,36,80,Weight Gain
+28,Female,160,50,Lightly Active,Vegan,2000,80,100,16,1660,200,24,60,Weight Gain
+45,Male,185,100,Moderately Active,Omnivore,2200,100,110,20,1820,220,26.4,60,Weight Gain
+68,Female,162,60,Sedentary,Vegan,1800,70,90,14,1450,180,21.6,50,"Weight Gain, Kidney Disease"
+35,Male,190,80,Very Active,Omnivore,3200,140,160,28,2650,320,38.4,90,Weight Gain
+21,Female,172,58,Lightly Active,Vegetarian,1700,65,85,13,1345,170,20.4,45,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+55,Male,178,82,Moderately Active,Vegan,2400,90,120,18,1950,240,28.8,70,Weight Gain
+25,Male,180,85,Moderately Active,Omnivore,2000,120,125,24,2020,250,30,60,Weight Gain
+32,Female,165,60,Lightly Active,Vegetarian,1800,80,110,16,1650,220,26.4,50,Weight Gain
+55,Male,175,90,Sedentary,Omnivore,1800,100,100,20,1650,200,24,50,Weight Gain
+68,Female,160,70,Sedentary,Vegan,1600,70,90,14,1360,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+28,Male,190,100,Very Active,Omnivore,3000,180,175,36,2840,350,42,80,Weight Gain
+42,Female,170,75,Moderately Active,Vegan,1500,80,90,16,1400,180,21.6,40,"Weight Gain, Hypertension, Heart Disease"
+38,Male,185,95,Lightly Active,Omnivore,2800,160,150,32,2470,300,36,70,Weight Gain
+52,Female,165,65,Sedentary,Vegetarian,1400,70,75,14,1150,150,18,30,"Hypertension, Heart Disease, Kidney Disease"
+22,Female,170,55,Very Active,Vegan,2500,120,140,24,2140,280,33.6,60,Weight Gain
+48,Male,175,80,Moderately Active,Omnivore,2200,100,125,20,1940,250,30,60,Weight Gain
+25,Male,180,85,Moderately Active,Omnivore,2200,120,125,24,2020,250,30,60,Weight Gain
+38,Female,165,68,Sedentary,Vegetarian,1800,80,100,16,1570,200,24,50,Weight Gain
+55,Male,175,90,Lightly Active,Omnivore,2000,100,110,20,1775,220,26.4,55,Weight Gain
+62,Female,160,75,Sedentary,Vegan,1600,70,90,14,1405,180,21.6,45,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+28,Male,190,100,Very Active,Omnivore,3000,180,175,36,2840,350,42,80,Weight Gain
+32,Female,170,65,Moderately Active,Vegetarian,2000,100,110,20,1775,220,26.4,55,Weight Gain
+68,Male,170,80,Lightly Active,Omnivore,1800,80,100,16,1570,200,24,50,Weight Gain
+21,Female,165,55,Very Active,Vegan,2200,100,125,20,1940,250,30,60,Weight Gain
+45,Male,185,95,Moderately Active,Omnivore,2000,100,110,20,1775,220,26.4,55,Weight Gain
+70,Female,155,60,Sedentary,Vegan,1400,60,80,12,1240,160,19.2,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+25,Female,165,58,Moderately Active,Omnivore,1800,80,100,16,1660,200,24,60,Weight Gain
+32,Male,180,90,Lightly Active,Vegetarian,2500,120,150,24,2400,300,36,80,Weight Gain
+55,Female,160,65,Sedentary,Vegan,1500,60,75,12,1200,150,18,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+48,Male,185,105,Very Active,Omnivore,3200,160,200,32,3140,400,48,100,Weight Gain
+38,Male,175,75,Moderately Active,Vegetarian,2000,90,110,18,1870,220,26.4,70,Weight Gain
+21,Female,170,60,Lightly Active,Omnivore,2200,100,125,20,2120,250,30,80,Weight Gain
+58,Male,178,80,Sedentary,Omnivore,2000,80,100,16,1660,200,24,60,Weight Gain
+70,Female,162,68,Sedentary,Vegan,1400,50,70,10,1120,140,16.8,40,"Diabetes, Acne, Hypertension, Kidney Disease"
+42,Male,190,100,Very Active,Vegetarian,3000,150,175,30,2810,350,42,90,Weight Gain
+25,Male,180,85,Moderately Active,Omnivore,2200,120,125,24,2020,250,30,60,Weight Gain
+62,Female,165,70,Lightly Active,Vegan,1800,70,100,14,1530,200,24,50,"Weight Gain, Kidney Disease"
+38,Male,190,95,Very Active,Omnivore,3000,180,175,36,2840,350,42,80,Weight Gain
+45,Female,170,65,Sedentary,Vegetarian,1600,80,90,16,1400,180,21.6,40,"Weight Gain, Hypertension, Heart Disease"
+22,Female,160,55,Moderately Active,Vegan,1800,70,100,14,1530,200,24,50,"Weight Gain, Kidney Disease"
+58,Male,175,80,Moderately Active,Omnivore,2000,100,110,20,1820,220,26.4,60,Weight Gain
+30,Male,185,90,Very Active,Omnivore,2800,160,150,32,2470,300,36,70,Weight Gain
+28,Female,170,60,Sedentary,Vegetarian,1500,70,80,14,1280,160,19.2,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+68,Female,155,60,Lightly Active,Vegan,1700,60,90,12,1320,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+42,Male,180,80,Very Active,Omnivore,2600,150,140,30,2350,280,33.6,70,Weight Gain
+25,Male,180,85,Moderately Active,Omnivore,2000,125,125,25,2040,250,30,60,Weight Gain
+32,Female,165,60,Lightly Active,Vegetarian,1800,90,112.5,18,1710,225,27,50,Weight Gain
+58,Male,175,95,Sedentary,Omnivore,1800,115,112.5,23,1855,225,27,55,Weight Gain
+28,Female,170,70,Very Active,Vegan,2500,150,150,30,2520,300,36,80,Weight Gain
+62,Female,160,75,Sedentary,Vegan,1600,80,100,16,1480,200,24,40,"Weight Gain, Hypertension, Heart Disease"
+40,Male,185,90,Moderately Active,Omnivore,2800,175,175,35,2910,350,42,90,Weight Gain
+35,Female,168,55,Lightly Active,Omnivore,1900,100,115,20,1860,230,27.6,60,Weight Gain
+22,Male,190,100,Very Active,Vegetarian,2200,130,137.5,26,2250,275,33,70,Weight Gain
+65,Male,170,80,Sedentary,Omnivore,1700,95,105,19,1670,210,25.2,50,Weight Gain
+48,Female,163,65,Lightly Active,Vegan,1500,75,92.5,15,1400,185,22.2,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+25,Male,185,85,Moderately Active,Omnivore,2200,150,125,30,2140,250,30,60,Weight Gain
+38,Female,165,65,Lightly Active,Vegetarian,2000,120,100,24,1730,200,24,50,Weight Gain
+62,Female,160,70,Sedentary,Vegan,1800,80,110,16,1650,220,26.4,50,Weight Gain
+45,Male,190,95,Very Active,Omnivore,3000,200,175,40,2920,350,42,80,Weight Gain
+28,Female,170,58,Moderately Active,Omnivore,1800,100,100,20,1650,200,24,50,Weight Gain
+55,Male,175,80,Sedentary,Omnivore,1800,110,110,22,1770,220,26.4,50,Weight Gain
+22,Female,168,62,Lightly Active,Vegan,2000,100,125,20,1850,250,30,50,Weight Gain
+30,Male,180,78,Moderately Active,Omnivore,2500,180,150,36,2550,300,36,70,Weight Gain
+68,Male,170,75,Sedentary,Omnivore,1600,80,90,16,1400,180,21.6,40,"Weight Gain, Hypertension, Heart Disease"
+35,Female,175,72,Very Active,Vegetarian,2000,120,120,24,1980,240,28.8,60,Weight Gain
+25,Female,165,55,Lightly Active,Omnivore,1800,80,100,16,1660,200,24,60,Weight Gain
+32,Male,180,85,Moderately Active,Omnivore,2800,150,150,30,2520,300,36,80,Weight Gain
+55,Female,160,68,Sedentary,Vegetarian,1500,70,75,14,1240,150,18,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+28,Male,190,95,Very Active,Vegan,3200,180,200,36,3220,400,48,100,Weight Gain
+62,Male,175,80,Lightly Active,Omnivore,2200,100,125,20,1940,250,30,60,Weight Gain
+21,Female,170,60,Moderately Active,Vegan,1600,70,90,14,1450,180,21.6,50,"Weight Gain, Kidney Disease"
+48,Female,168,75,Sedentary,Vegetarian,1800,80,100,16,1660,200,24,60,Weight Gain
+35,Male,185,100,Very Active,Omnivore,3000,160,175,32,2850,350,42,90,Weight Gain
+40,Male,178,88,Moderately Active,Omnivore,2600,140,140,28,2400,280,33.6,80,Weight Gain
+25,Male,180,85,Moderately Active,Omnivore,2200,120,100,24,1820,200,24,60,Weight Gain
+32,Female,165,68,Lightly Active,Vegetarian,2000,100,125,20,1940,250,30,60,Weight Gain
+55,Male,175,95,Sedentary,Omnivore,2000,80,125,16,1860,250,30,60,Weight Gain
+28,Female,170,72,Very Active,Vegan,1800,80,90,16,1490,180,21.6,50,Weight Gain
+62,Female,160,65,Lightly Active,Vegan,1600,60,75,12,1200,150,18,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+40,Male,185,90,Moderately Active,Omnivore,2500,150,150,30,2520,300,36,80,Weight Gain
+38,Female,172,78,Sedentary,Omnivore,1800,80,100,16,1660,200,24,60,Weight Gain
+22,Male,190,105,Very Active,Vegan,2800,130,175,26,2730,350,42,90,Weight Gain
+19,Female,168,55,Moderately Active,Vegetarian,1800,70,90,14,1450,180,21.6,50,"Weight Gain, Kidney Disease"
+45,Male,178,82,Lightly Active,Omnivore,2300,110,135,22,2150,270,32.4,70,Weight Gain
+25,Female,165,58,Lightly Active,Omnivore,1800,80,100,16,1660,200,24,60,Weight Gain
+32,Male,180,85,Moderately Active,Omnivore,2800,150,150,30,2520,300,36,80,Weight Gain
+58,Female,160,70,Sedentary,Vegetarian,1500,70,75,14,1240,150,18,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+65,Male,175,90,Lightly Active,Vegan,2200,80,125,16,1860,250,30,60,Weight Gain
+42,Female,170,65,Moderately Active,Vegan,1900,70,110,14,1610,220,26.4,50,"Weight Gain, Kidney Disease"
+38,Male,185,95,Very Active,Omnivore,3200,170,175,34,2890,350,42,90,Weight Gain
+28,Female,162,55,Sedentary,Vegetarian,1600,65,90,13,1385,180,21.6,45,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+62,Male,170,80,Moderately Active,Vegan,2000,75,110,15,1675,220,26.4,55,"Weight Gain, Kidney Disease"
+21,Female,158,48,Lightly Active,Omnivore,1500,60,85,12,1325,170,20.4,45,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+55,Male,178,88,Sedentary,Vegetarian,1900,70,100,14,1575,200,24,55,"Weight Gain, Kidney Disease"
+25,Male,180,80,Moderately Active,Omnivore,2000,120,90,24,1650,180,21.6,50,Weight Gain
+32,Female,165,65,Sedentary,Vegetarian,1800,80,110,16,1740,220,26.4,60,Weight Gain
+55,Female,160,75,Lightly Active,Vegan,1600,70,75,14,1240,150,18,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+40,Male,190,95,Very Active,Omnivore,3000,180,135,36,2520,270,32.4,80,Weight Gain
+62,Male,175,85,Sedentary,Omnivore,2200,100,100,20,1830,200,24,70,Weight Gain
+28,Female,170,55,Moderately Active,Vegetarian,2400,110,120,22,2030,240,28.8,70,Weight Gain
+35,Male,185,110,Very Active,Omnivore,2500,150,100,30,1940,200,24,60,Weight Gain
+22,Female,160,50,Lightly Active,Vegan,2200,100,110,20,1820,220,26.4,60,Weight Gain
+48,Male,180,90,Moderately Active,Omnivore,2100,130,85,26,1650,170,20.4,50,Weight Gain
+58,Female,155,60,Sedentary,Vegan,1500,60,65,12,1120,130,15.6,40,"Diabetes, Acne, Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+25,Male,180,80,Moderately Active,Omnivore,2200,120,100,24,1820,200,24,60,Weight Gain
+32,Female,165,65,Lightly Active,Vegetarian,1800,80,90,16,1490,180,21.6,50,Weight Gain
+55,Male,175,95,Sedentary,Omnivore,2400,100,125,20,2030,250,30,70,Weight Gain
+28,Female,170,72,Very Active,Vegan,2600,130,140,26,2270,280,33.6,70,Weight Gain
+62,Female,160,60,Sedentary,Vegan,1600,60,75,12,1200,150,18,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+38,Male,190,105,Moderately Active,Omnivore,3000,160,150,32,2650,300,36,90,Weight Gain
+22,Female,168,58,Lightly Active,Vegetarian,1900,70,100,14,1620,200,24,60,"Weight Gain, Kidney Disease"
+40,Male,178,85,Very Active,Vegan,2400,120,110,24,1900,220,26.4,60,Weight Gain
+27,Female,172,68,Moderately Active,Omnivore,1900,90,90,18,1530,180,21.6,50,Weight Gain
+58,Male,182,100,Lightly Active,Vegan,2200,80,100,16,1660,200,24,60,Weight Gain
+25,Male,180,80,Moderately Active,Omnivore,2200,120,125,24,2020,250,30,60,Weight Gain
+32,Female,165,65,Sedentary,Vegetarian,1800,80,100,16,1570,200,24,50,Weight Gain
+58,Female,160,70,Lightly Active,Vegan,1600,70,90,14,1360,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+40,Male,190,95,Very Active,Omnivore,3000,180,175,36,2840,350,42,80,Weight Gain
+62,Male,175,85,Lightly Active,Vegetarian,1800,80,100,16,1570,200,24,50,Weight Gain
+38,Female,170,75,Moderately Active,Vegan,2000,80,110,16,1740,220,26.4,60,Weight Gain
+28,Male,185,90,Very Active,Omnivore,3200,200,200,40,3210,400,48,90,Weight Gain
+55,Female,155,60,Sedentary,Vegan,1400,60,80,12,1150,160,19.2,30,"Hypertension, Heart Disease, Kidney Disease"
+70,Male,170,75,Lightly Active,Omnivore,1800,80,100,16,1570,200,24,50,Weight Gain
+22,Female,168,55,Moderately Active,Vegetarian,1600,70,90,14,1360,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+25,Female,165,55,Moderately Active,Omnivore,1800,75,100,15,1640,200,24,60,"Weight Gain, Kidney Disease"
+32,Male,180,85,Lightly Active,Omnivore,2800,150,150,30,2520,300,36,80,Weight Gain
+58,Female,160,68,Sedentary,Vegetarian,1500,60,85,12,1280,170,20.4,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+40,Male,190,95,Very Active,Omnivore,3500,200,200,40,3300,400,48,100,Weight Gain
+62,Female,155,50,Sedentary,Vegan,1400,50,75,10,1070,150,18,30,"Hypertension, Kidney Disease"
+28,Male,175,70,Moderately Active,Omnivore,2500,100,125,20,2030,250,30,70,Weight Gain
+65,Male,170,75,Lightly Active,Omnivore,1700,70,90,14,1450,180,21.6,50,"Weight Gain, Kidney Disease"
+35,Female,168,60,Very Active,Vegan,2500,100,150,20,2230,300,36,70,Weight Gain
+48,Male,185,100,Moderately Active,Omnivore,2200,90,110,18,1780,220,26.4,60,Weight Gain
+22,Female,170,58,Lightly Active,Vegetarian,2000,80,100,16,1660,200,24,60,Weight Gain
+25,Female,165,55,Moderately Active,Omnivore,1800,100,100,20,1740,200,24,60,Weight Gain
+38,Male,180,85,Lightly Active,Omnivore,2800,160,150,32,2560,300,36,80,Weight Gain
+55,Female,160,65,Sedentary,Vegetarian,1500,75,75,15,1305,150,18,45,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+62,Male,175,90,Moderately Active,Vegan,2400,120,140,24,2230,280,33.6,70,Weight Gain
+28,Female,170,60,Very Active,Vegan,2500,140,150,28,2390,300,36,70,Weight Gain
+42,Male,185,95,Lightly Active,Omnivore,2600,150,140,30,2440,280,33.6,80,Weight Gain
+58,Female,155,50,Sedentary,Vegetarian,1400,70,70,14,1200,140,16.8,40,"Diabetes, Acne, Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+33,Male,190,100,Moderately Active,Vegan,2600,130,150,26,2350,300,36,70,Weight Gain
+21,Female,168,58,Very Active,Omnivore,2400,130,140,26,2270,280,33.6,70,Weight Gain
+68,Male,170,75,Lightly Active,Omnivore,1800,90,90,18,1530,180,21.6,50,Weight Gain
+25,Male,180,80,Moderately Active,Omnivore,2200,120,125,24,2020,250,30,60,Weight Gain
+38,Female,165,65,Lightly Active,Vegetarian,1800,80,100,16,1570,200,24,50,Weight Gain
+62,Male,175,90,Sedentary,Omnivore,1800,100,100,20,1650,200,24,50,Weight Gain
+45,Female,170,75,Very Active,Vegan,2500,140,150,28,2480,300,36,80,Weight Gain
+58,Male,185,105,Moderately Active,Omnivore,2000,110,110,22,1860,220,26.4,60,Weight Gain
+22,Female,160,50,Lightly Active,Vegan,1600,70,90,14,1360,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+70,Female,155,55,Sedentary,Vegetarian,1400,70,80,14,1280,160,19.2,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+30,Male,190,95,Very Active,Omnivore,3000,180,175,36,3020,350,42,100,Weight Gain
+42,Female,168,60,Moderately Active,Vegan,1800,80,100,16,1570,200,24,50,Weight Gain
+55,Male,178,85,Sedentary,Omnivore,1800,100,100,20,1650,200,24,50,Weight Gain
+25,Female,165,58,Moderately Active,Omnivore,1800,100,100,20,1740,200,24,60,Weight Gain
+38,Male,180,85,Lightly Active,Vegetarian,2500,120,150,24,2400,300,36,80,Weight Gain
+55,Female,160,70,Sedentary,Vegan,1500,80,75,16,1370,150,18,50,Weight Gain
+62,Male,175,95,Moderately Active,Omnivore,2800,140,175,28,2860,350,42,100,Weight Gain
+28,Female,170,65,Very Active,Vegetarian,2400,130,150,26,2440,300,36,80,Weight Gain
+32,Male,185,90,Lightly Active,Omnivore,2200,110,125,22,2070,250,30,70,Weight Gain
+58,Female,155,62,Sedentary,Vegan,1400,70,70,14,1200,140,16.8,40,"Diabetes, Acne, Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+40,Male,190,110,Very Active,Omnivore,3200,160,200,32,3320,400,48,120,Weight Gain
+21,Female,168,55,Lightly Active,Vegan,2000,90,110,18,1780,220,26.4,60,Weight Gain
+70,Male,170,75,Sedentary,Omnivore,2000,100,125,20,2030,250,30,70,Weight Gain
+25,Male,180,80,Moderately Active,Omnivore,2800,180,175,36,2840,350,42,80,Weight Gain
+32,Female,165,65,Lightly Active,Vegetarian,1800,100,100,20,1650,200,24,50,Weight Gain
+58,Male,175,90,Sedentary,Omnivore,2000,120,125,24,2020,250,30,60,Weight Gain
+62,Female,160,70,Moderately Active,Vegan,1900,90,110,18,1780,220,26.4,60,Weight Gain
+28,Male,190,100,Very Active,Omnivore,3200,200,200,40,3300,400,48,100,Weight Gain
+45,Female,170,75,Lightly Active,Vegetarian,1600,80,90,16,1400,180,21.6,40,"Weight Gain, Hypertension, Heart Disease"
+30,Male,185,95,Moderately Active,Vegan,2800,180,175,36,2840,350,42,80,Weight Gain
+65,Female,155,60,Sedentary,Omnivore,1700,80,100,16,1570,200,24,50,Weight Gain
+22,Female,168,55,Very Active,Vegetarian,2400,140,150,28,2390,300,36,70,Weight Gain
+50,Male,170,85,Lightly Active,Vegan,1900,100,110,20,1820,220,26.4,60,Weight Gain
+25,Male,180,80,Moderately Active,Omnivore,2000,150,125,30,2140,250,30,60,Weight Gain
+32,Female,165,60,Sedentary,Vegetarian,1800,100,110,20,1730,220,26.4,50,Weight Gain
+55,Male,175,90,Lightly Active,Omnivore,1800,130,100,26,1860,200,24,60,Weight Gain
+28,Female,170,70,Very Active,Vegan,2500,175,175,35,2820,350,42,80,Weight Gain
+40,Male,190,110,Moderately Active,Omnivore,2200,160,140,32,2390,280,33.6,70,Weight Gain
+62,Female,160,55,Sedentary,Vegan,1500,80,90,16,1400,180,21.6,40,"Weight Gain, Hypertension, Heart Disease"
+22,Male,185,95,Very Active,Omnivore,3000,200,200,40,3300,400,48,100,Weight Gain
+38,Female,168,65,Lightly Active,Vegan,1600,100,100,20,1650,200,24,50,Weight Gain
+27,Female,172,75,Moderately Active,Vegetarian,2000,120,125,24,2020,250,30,60,Weight Gain
+45,Male,180,100,Very Active,Omnivore,2400,180,150,36,2640,300,36,80,Weight Gain
+32,Female,165,65,Lightly Active,Vegetarian,1800,80,100,16,1570,200,24,50,Weight Gain
+55,Male,175,90,Sedentary,Omnivore,1800,100,100,20,1650,200,24,50,Weight Gain
+28,Female,170,70,Very Active,Vegan,2500,150,150,30,2430,300,36,70,Weight Gain
+48,Female,160,60,Sedentary,Vegan,1600,70,90,14,1360,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+62,Male,170,85,Lightly Active,Omnivore,1800,100,100,20,1650,200,24,50,Weight Gain
+22,Female,168,55,Moderately Active,Vegetarian,2200,120,125,24,2020,250,30,60,Weight Gain
+38,Male,185,100,Very Active,Omnivore,3000,180,175,36,2840,350,42,80,Weight Gain
+21,Female,158,50,Moderately Active,Vegan,1800,80,100,16,1570,200,24,50,Weight Gain
+58,Female,163,75,Sedentary,Vegetarian,1600,70,90,14,1360,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+25,Female,165,58,Lightly Active,Omnivore,1800,80,125,16,1860,250,30,60,Weight Gain
+38,Male,180,85,Moderately Active,Omnivore,2800,150,175,30,2720,350,42,80,Weight Gain
+62,Female,160,65,Sedentary,Vegetarian,1500,70,100,14,1440,200,24,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+28,Male,185,90,Very Active,Vegan,3200,180,200,36,3040,400,48,80,Weight Gain
+45,Female,170,70,Lightly Active,Vegan,1700,75,110,15,1630,220,26.4,50,"Weight Gain, Kidney Disease"
+58,Male,175,80,Sedentary,Omnivore,2200,100,140,20,2060,280,33.6,60,Weight Gain
+32,Female,168,62,Moderately Active,Vegetarian,2400,120,150,24,2310,300,36,70,Weight Gain
+70,Male,170,75,Lightly Active,Vegan,1600,70,105,14,1480,210,25.2,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+19,Female,163,55,Very Active,Omnivore,2600,140,160,28,2470,320,38.4,70,Weight Gain
+55,Male,183,95,Sedentary,Vegetarian,2000,90,125,18,1810,250,30,50,Weight Gain
+25,Male,180,80,Moderately Active,Omnivore,2000,120,125,24,2020,250,30,60,Weight Gain
+32,Female,165,65,Lightly Active,Vegetarian,1600,80,90,16,1490,180,21.6,50,Weight Gain
+55,Male,175,95,Sedentary,Vegan,2200,100,150,20,2230,300,36,70,Weight Gain
+68,Female,160,70,Lightly Active,Omnivore,1400,70,75,14,1240,150,18,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+28,Male,185,90,Very Active,Omnivore,3000,180,200,36,3040,400,48,80,Weight Gain
+38,Female,170,75,Moderately Active,Vegan,1800,80,110,16,1740,220,26.4,60,Weight Gain
+58,Male,170,85,Sedentary,Omnivore,2000,80,125,16,1860,250,30,60,Weight Gain
+42,Female,168,60,Very Active,Vegetarian,2200,100,150,20,2230,300,36,70,Weight Gain
+21,Male,190,100,Moderately Active,Vegan,2800,140,175,28,2770,350,42,90,Weight Gain
+62,Female,155,55,Sedentary,Vegan,1200,60,60,12,990,120,14.4,30,"Diabetes, Acne, Weight Loss, Hypertension, Heart Disease, Kidney Disease"
+25,Male,180,80,Moderately Active,Omnivore,2000,120,125,24,2020,250,30,60,Weight Gain
+32,Female,165,65,Sedentary,Vegetarian,1600,80,100,16,1480,200,24,40,"Weight Gain, Hypertension, Heart Disease"
+58,Male,175,95,Lightly Active,Vegan,2200,100,150,20,2185,300,36,65,Weight Gain
+40,Female,170,72,Moderately Active,Omnivore,2500,150,175,30,2720,350,42,80,Weight Gain
+28,Male,185,90,Very Active,Vegan,3000,180,200,36,3130,400,48,90,Weight Gain
+62,Female,160,60,Sedentary,Omnivore,1800,80,110,16,1650,220,26.4,50,Weight Gain
+35,Male,190,100,Very Active,Vegetarian,2400,140,150,28,2390,300,36,70,Weight Gain
+22,Female,168,55,Lightly Active,Vegan,1500,70,90,14,1360,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+55,Male,178,85,Sedentary,Omnivore,2000,100,125,20,1940,250,30,60,Weight Gain
+48,Female,172,78,Moderately Active,Vegan,1800,90,110,18,1690,220,26.4,50,Weight Gain
+25,Male,180,85,Moderately Active,Omnivore,2200,120,125,24,2020,250,30,60,Weight Gain
+38,Female,165,68,Lightly Active,Vegetarian,1800,80,100,16,1570,200,24,50,Weight Gain
+55,Male,175,95,Sedentary,Vegan,1800,80,100,16,1570,200,24,50,Weight Gain
+62,Female,160,70,Lightly Active,Vegan,1500,70,87.5,14,1340,175,21,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+28,Male,190,90,Very Active,Omnivore,3000,160,175,32,2760,350,42,80,Weight Gain
+40,Female,170,75,Moderately Active,Vegetarian,2200,100,125,20,1940,250,30,60,Weight Gain
+58,Male,170,80,Sedentary,Vegan,1600,70,90,14,1360,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+65,Female,155,65,Lightly Active,Omnivore,1500,60,87.5,12,1300,175,21,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+32,Male,185,100,Very Active,Omnivore,3200,180,190,36,3050,380,45.6,90,Weight Gain
+45,Female,168,72,Moderately Active,Vegan,1700,70,95,14,1445,190,22.8,45,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+25,Male,180,80,Moderately Active,Omnivore,2200,140,125,28,2190,250,30,70,Weight Gain
+32,Female,165,65,Sedentary,Vegetarian,2000,120,100,24,1820,200,24,60,Weight Gain
+48,Male,175,95,Very Active,Vegan,2800,160,175,32,2805,350,42,85,Weight Gain
+55,Female,160,70,Lightly Active,Omnivore,1800,100,90,20,1570,180,21.6,50,Weight Gain
+28,Male,190,100,Moderately Active,Omnivore,3000,180,200,36,3220,400,48,100,Weight Gain
+62,Female,155,55,Sedentary,Vegan,1600,80,80,16,1320,160,19.2,40,"Weight Gain, Hypertension, Heart Disease"
+35,Male,170,75,Very Active,Vegetarian,2400,130,150,26,2350,300,36,70,Weight Gain
+22,Female,168,58,Lightly Active,Omnivore,2200,120,125,24,2020,250,30,60,Weight Gain
+58,Male,178,85,Moderately Active,Vegan,2000,120,100,24,1820,200,24,60,Weight Gain
+40,Female,172,78,Sedentary,Omnivore,1800,100,90,20,1570,180,21.6,50,Weight Gain
+25,Male,180,85,Moderately Active,Omnivore,2200,150,125,30,2140,250,30,60,Weight Gain
+32,Female,165,60,Lightly Active,Vegetarian,1800,80,110,16,1650,220,26.4,50,Weight Gain
+55,Male,175,90,Sedentary,Omnivore,2000,120,100,24,1775,200,24,55,Weight Gain
+28,Female,170,70,Very Active,Vegan,2400,160,150,32,2470,300,36,70,Weight Gain
+62,Female,160,65,Lightly Active,Vegan,1600,70,90,14,1360,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+38,Male,185,95,Moderately Active,Omnivore,2800,200,175,40,2920,350,42,80,Weight Gain
+21,Female,168,55,Very Active,Vegan,2000,100,125,20,1940,250,30,60,Weight Gain
+40,Male,190,110,Sedentary,Omnivore,2000,140,100,28,1810,200,24,50,Weight Gain
+23,Female,172,68,Moderately Active,Vegetarian,1800,100,100,20,1650,200,24,50,Weight Gain
+48,Male,178,80,Lightly Active,Vegan,1800,100,100,20,1650,200,24,50,Weight Gain
+25,Male,180,80,Moderately Active,Omnivore,2200,120,125,24,2020,250,30,60,Weight Gain
+32,Female,165,65,Lightly Active,Vegetarian,2000,100,100,20,1830,200,24,70,Weight Gain
+48,Male,175,95,Very Active,Omnivore,2800,150,150,30,2520,300,36,80,Weight Gain
+55,Female,160,70,Sedentary,Vegan,1800,80,110,16,1650,220,26.4,50,Weight Gain
+28,Male,190,90,Moderately Active,Omnivore,2800,160,175,32,2940,350,42,100,Weight Gain
+62,Male,170,85,Lightly Active,Vegan,1800,80,100,16,1570,200,24,50,Weight Gain
+35,Female,170,75,Very Active,Vegetarian,2400,120,140,24,2320,280,33.6,80,Weight Gain
+22,Female,160,55,Sedentary,Vegan,1600,70,90,14,1360,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+40,Male,185,100,Moderately Active,Omnivore,2500,130,140,26,2270,280,33.6,70,Weight Gain
+29,Female,175,85,Very Active,Vegetarian,2600,130,160,26,2610,320,38.4,90,Weight Gain
+25,Male,180,80,Moderately Active,Omnivore,3000,180,175,36,2840,350,42,80,Weight Gain
+38,Female,165,65,Lightly Active,Vegetarian,1800,100,100,20,1650,200,24,50,Weight Gain
+55,Male,175,90,Sedentary,Omnivore,2200,120,125,24,2020,250,30,60,Weight Gain
+62,Female,160,70,Moderately Active,Vegan,2000,100,110,20,1820,220,26.4,60,Weight Gain
+28,Male,190,100,Very Active,Omnivore,3500,200,200,40,3300,400,48,100,Weight Gain
+42,Female,170,75,Lightly Active,Vegan,1700,90,90,18,1485,180,21.6,45,"Weight Gain, Hypertension, Heart Disease"
+68,Male,170,85,Sedentary,Omnivore,2000,100,110,20,1820,220,26.4,60,Weight Gain
+22,Female,165,55,Very Active,Vegan,2500,150,150,30,2430,300,36,70,Weight Gain
+35,Male,185,95,Moderately Active,Omnivore,2500,140,140,28,2310,280,33.6,70,Weight Gain
+58,Female,155,60,Sedentary,Vegan,1800,80,100,16,1570,200,24,50,Weight Gain
+25,Female,165,55,Lightly Active,Omnivore,1800,100,100,20,1740,200,24,60,Weight Gain
+32,Male,180,80,Moderately Active,Omnivore,2800,180,175,36,2840,350,42,80,Weight Gain
+58,Female,160,70,Sedentary,Vegetarian,1500,80,75,16,1370,150,18,50,Weight Gain
+38,Male,190,95,Very Active,Omnivore,3200,200,200,40,3300,400,48,100,Weight Gain
+22,Female,170,60,Lightly Active,Vegan,2000,100,125,20,2030,250,30,70,Weight Gain
+65,Male,175,85,Sedentary,Omnivore,1700,90,90,18,1620,180,21.6,60,Weight Gain
+40,Female,168,65,Moderately Active,Vegetarian,2200,120,140,24,2320,280,33.6,80,Weight Gain
+28,Male,185,90,Very Active,Vegan,3000,150,187.5,30,2910,375,45,90,Weight Gain
+52,Female,158,62,Sedentary,Vegan,1400,70,70,14,1200,140,16.8,40,"Diabetes, Acne, Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+35,Male,178,75,Moderately Active,Omnivore,2500,130,150,26,2440,300,36,80,Weight Gain
+25,Male,180,80,Moderately Active,Omnivore,2200,120,125,24,2020,250,30,60,Weight Gain
+35,Female,165,65,Lightly Active,Vegetarian,1800,80,100,16,1570,200,24,50,Weight Gain
+55,Female,160,70,Sedentary,Vegan,1500,70,90,14,1360,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+40,Male,190,95,Very Active,Omnivore,3000,180,175,36,2840,350,42,80,Weight Gain
+28,Female,170,55,Lightly Active,Vegan,1800,80,100,16,1570,200,24,50,Weight Gain
+62,Male,175,85,Moderately Active,Omnivore,2000,100,110,20,1730,220,26.4,50,Weight Gain
+32,Female,168,60,Very Active,Vegetarian,2400,100,140,20,2060,280,33.6,60,Weight Gain
+21,Male,185,88,Sedentary,Vegan,1800,80,100,16,1570,200,24,50,Weight Gain
+48,Male,178,90,Moderately Active,Omnivore,2400,120,140,24,2230,280,33.6,70,Weight Gain
+38,Female,172,75,Lightly Active,Vegan,1600,70,90,14,1360,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+25,Male,180,85,Moderately Active,Omnivore,2200,150,125,30,2140,250,30,60,Weight Gain
+38,Female,165,62,Lightly Active,Vegan,1800,80,110,16,1650,220,26.4,50,Weight Gain
+55,Female,160,70,Sedentary,Vegetarian,1600,70,90,14,1360,180,21.6,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+28,Male,190,95,Very Active,Omnivore,3000,200,175,40,2920,350,42,80,Weight Gain
+62,Male,175,80,Lightly Active,Omnivore,2000,100,100,20,1740,200,24,60,Weight Gain
+32,Female,170,68,Moderately Active,Vegan,2200,120,140,24,2140,280,33.6,60,Weight Gain
+21,Female,168,55,Sedentary,Vegan,1500,60,80,12,1240,160,19.2,40,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+40,Male,185,90,Very Active,Omnivore,3200,220,200,44,3290,400,48,90,Weight Gain
+27,Female,172,75,Moderately Active,Vegetarian,1900,80,105,16,1610,210,25.2,50,Weight Gain
+19,Male,183,78,Lightly Active,Omnivore,2000,120,100,24,1730,200,24,50,Weight Gain
+25,Male,180,85,Moderately Active,Omnivore,2200,150,125,30,2140,250,30,60,Weight Gain
+32,Female,165,60,Lightly Active,Vegan,2000,120,100,24,1730,200,24,50,Weight Gain
+55,Male,175,90,Sedentary,Omnivore,1800,120,100,24,1730,200,24,50,Weight Gain
+68,Female,160,70,Sedentary,Vegetarian,1600,80,90,16,1400,180,21.6,40,"Weight Gain, Hypertension, Heart Disease"
+47,Male,168,115,Sedentary,Omnivore,2368,102,97,20.4,1832,194,23.28,72,Weight Gain
+77,Male,161,106,Sedentary,Vegan,2707,144,165,28.8,2760,330,39.6,96,Weight Gain
+51,Female,162,72,Moderately Active,Vegan,1602,174,80.5,34.8,1925,161,19.32,65,Weight Gain
+50,Female,188,61,Moderately Active,Vegetarian,1886,79,158,15.8,2156,316,37.92,64,"Weight Gain, Kidney Disease"
+77,Male,185,101,Moderately Active,Vegetarian,2846,161,176.5,32.2,2902,353,42.36,94,Weight Gain
+53,Male,196,62,Lightly Active,Vegetarian,1802,105,85.5,21,1455,171,20.52,39,"Weight Gain, Hypertension, Heart Disease"
+79,Female,156,96,Sedentary,Vegan,2275,166,99.5,33.2,2162,199,23.88,78,Weight Gain
+65,Female,169,59,Sedentary,Vegetarian,1954,103,103.5,20.6,1717,207,24.84,53,Weight Gain
+25,Male,183,53,Sedentary,Vegetarian,1636,76,175,15.2,2460,350,42,84,"Weight Gain, Kidney Disease"
+39,Male,153,58,Moderately Active,Omnivore,2619,82,173.5,16.4,2256,347,41.64,60,Weight Gain
+53,Female,194,60,Moderately Active,Vegan,2912,120,189.5,24,2428,379,45.48,48,"Weight Gain, Hypertension, Heart Disease"
+42,Female,198,75,Moderately Active,Vegetarian,1508,68,199.5,13.6,2372,399,47.88,56,"Weight Gain, Kidney Disease"
+74,Male,184,82,Moderately Active,Vegan,1766,163,157.5,32.6,2803,315,37.8,99,Weight Gain
+72,Male,162,93,Sedentary,Vegan,2286,70,102.5,14,1496,205,24.6,44,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+18,Female,192,112,Moderately Active,Vegan,1616,173,186.5,34.6,2490,373,44.76,34,"Weight Gain, Hypertension, Heart Disease"
+51,Male,199,62,Moderately Active,Pescatarian,2229,88,164,17.6,2222,328,39.36,62,Weight Gain
+70,Female,164,61,Very Active,Pescatarian,1944,141,142.5,28.2,2352,285,34.2,72,Weight Gain
+53,Male,150,79,Sedentary,Pescatarian,1859,132,153,26.4,2490,306,36.72,82,Weight Gain
+59,Female,180,97,Moderately Active,Pescatarian,2289,145,80.5,29,1557,161,19.32,37,"Weight Gain, Hypertension, Heart Disease"
+46,Male,170,76,Sedentary,Vegan,2953,90,81,18,1674,162,19.44,74,Weight Gain
+34,Female,177,54,Sedentary,Pescatarian,1650,178,117,35.6,1999,234,28.08,39,"Weight Gain, Hypertension, Heart Disease"
+44,Male,178,78,Sedentary,Pescatarian,2784,66,184,13.2,2447,368,44.16,79,"Weight Gain, Kidney Disease"
+52,Male,169,101,Lightly Active,Vegan,2466,146,112,29.2,2290,224,26.88,90,Weight Gain
+56,Female,169,57,Very Active,Vegan,2189,101,128.5,20.2,2197,257,30.84,85,Weight Gain
+70,Male,166,54,Sedentary,Pescatarian,2406,173,105.5,34.6,2022,211,25.32,54,Weight Gain
+72,Female,179,58,Moderately Active,Pescatarian,1594,70,142.5,14,1951,285,34.2,59,"Weight Gain, Kidney Disease"
+57,Male,163,111,Very Active,Vegan,2336,96,113.5,19.2,1625,227,27.24,37,"Weight Gain, Hypertension, Heart Disease"
+44,Female,190,107,Moderately Active,Vegetarian,1922,161,181,32.2,2362,362,43.44,30,"Hypertension, Heart Disease"
+70,Female,150,100,Moderately Active,Pescatarian,1886,106,114.5,21.2,1772,229,27.48,48,"Weight Gain, Hypertension, Heart Disease"
+38,Male,197,50,Sedentary,Pescatarian,2754,83,197.5,16.6,2533,395,47.4,69,Weight Gain
+51,Female,152,92,Sedentary,Vegetarian,2243,107,127.5,21.4,1781,255,30.6,37,"Weight Gain, Hypertension, Heart Disease"
+21,Female,183,86,Very Active,Pescatarian,1569,141,88,28.2,1934,176,21.12,74,Weight Gain
+52,Male,173,71,Moderately Active,Vegan,2702,51,199.5,10.2,2313,399,47.88,57,"Weight Gain, Kidney Disease"
+40,Female,178,88,Sedentary,Pescatarian,1696,151,162,30.2,2548,324,38.88,72,Weight Gain
+61,Male,199,104,Very Active,Vegan,1846,133,110,26.6,2222,220,26.4,90,Weight Gain
+36,Male,171,81,Lightly Active,Vegan,2262,84,181.5,16.8,2166,363,43.56,42,"Weight Gain, Hypertension, Heart Disease"
+70,Female,164,79,Very Active,Omnivore,2482,100,131.5,20,2181,263,31.56,81,Weight Gain
+20,Male,196,80,Lightly Active,Pescatarian,2786,105,155,21,2461,310,37.2,89,Weight Gain
+36,Female,152,64,Lightly Active,Vegetarian,2292,99,75,19.8,1311,150,18,35,"Weight Gain, Hypertension, Heart Disease"
+40,Male,187,81,Very Active,Pescatarian,2111,128,125,25.6,1917,250,30,45,"Weight Gain, Hypertension, Heart Disease"
+61,Female,167,96,Moderately Active,Omnivore,2327,136,194.5,27.2,2703,389,46.68,67,Weight Gain
+77,Male,184,74,Very Active,Omnivore,2682,166,133.5,33.2,2218,267,32.04,54,Weight Gain
+63,Female,177,113,Very Active,Vegan,1703,171,157,34.2,2219,314,37.68,31,"Weight Gain, Hypertension, Heart Disease"
+37,Male,154,78,Very Active,Omnivore,2562,167,154,33.4,2782,308,36.96,98,Weight Gain
+41,Male,191,97,Moderately Active,Omnivore,1537,161,83,32.2,2199,166,19.92,99,Weight Gain
+69,Female,180,112,Very Active,Omnivore,2241,89,99,17.8,1499,198,23.76,39,"Weight Gain, Hypertension, Heart Disease"
+56,Female,177,56,Sedentary,Omnivore,2489,168,185,33.6,2809,370,44.4,73,Weight Gain
+74,Female,187,82,Moderately Active,Vegan,2928,99,112.5,19.8,2133,225,27,93,Weight Gain
+25,Male,188,117,Very Active,Pescatarian,2352,59,120,11.8,1718,240,28.8,58,"Weight Gain, Kidney Disease"
+44,Male,171,104,Moderately Active,Vegan,2383,149,163,29.8,2404,326,39.12,56,Weight Gain
+69,Female,165,110,Lightly Active,Vegetarian,2611,83,190,16.6,2194,380,45.6,38,"Weight Gain, Hypertension, Heart Disease"
+26,Female,166,68,Moderately Active,Vegan,1599,108,132,21.6,1785,264,31.68,33,"Weight Gain, Hypertension, Heart Disease"
+26,Male,192,82,Lightly Active,Omnivore,2123,174,135.5,34.8,2671,271,32.52,99,Weight Gain
+46,Female,188,50,Sedentary,Omnivore,2104,172,155.5,34.4,2463,311,37.32,59,Weight Gain
+61,Male,192,73,Moderately Active,Pescatarian,1604,149,93.5,29.8,1812,187,22.44,52,Weight Gain
+31,Male,169,93,Very Active,Vegan,1656,110,194.5,22,2491,389,46.68,55,Weight Gain
+78,Female,169,96,Lightly Active,Pescatarian,2016,131,119.5,26.2,2209,239,28.68,81,Weight Gain
+21,Female,184,96,Sedentary,Omnivore,2174,63,120.5,12.6,1927,241,28.92,79,"Weight Gain, Kidney Disease"
+58,Male,154,110,Very Active,Pescatarian,2061,96,170,19.2,2239,340,40.8,55,Weight Gain
+30,Female,166,92,Lightly Active,Vegan,2415,72,93,14.4,1401,186,22.32,41,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+53,Male,187,119,Moderately Active,Vegan,2817,85,176.5,17,2130,353,42.36,42,"Weight Gain, Hypertension, Heart Disease"
+62,Male,170,117,Very Active,Vegan,2902,127,165,25.4,2665,330,39.6,93,Weight Gain
+24,Female,163,105,Very Active,Omnivore,1673,169,76,33.8,1608,152,18.24,36,"Weight Gain, Hypertension, Heart Disease"
+58,Female,171,87,Lightly Active,Vegetarian,1657,116,89,23.2,1932,178,21.36,84,Weight Gain
+67,Female,172,115,Lightly Active,Omnivore,2784,87,159,17.4,2160,318,38.16,60,Weight Gain
+48,Male,154,52,Moderately Active,Vegetarian,2287,74,79.5,14.8,1436,159,19.08,56,"Weight Gain, Kidney Disease"
+29,Female,192,100,Moderately Active,Vegan,2576,113,161.5,22.6,2293,323,38.76,61,Weight Gain
+75,Male,189,88,Sedentary,Vegetarian,2372,152,107,30.4,2166,214,25.68,78,Weight Gain
+26,Male,185,93,Lightly Active,Pescatarian,2606,130,107,26,2213,214,25.68,93,Weight Gain
+60,Female,191,95,Sedentary,Vegan,1856,135,150.5,27,2419,301,36.12,75,Weight Gain
+36,Female,192,107,Very Active,Pescatarian,2686,61,97,12.2,1731,194,23.28,79,"Weight Gain, Kidney Disease"
+69,Female,183,71,Moderately Active,Pescatarian,2798,72,113,14.4,2083,226,27.12,99,"Weight Gain, Kidney Disease"
+66,Male,164,100,Sedentary,Vegetarian,2925,144,85,28.8,2075,170,20.4,91,Weight Gain
+41,Male,167,58,Moderately Active,Pescatarian,2826,149,126,29.8,2018,252,30.24,46,"Weight Gain, Hypertension, Heart Disease"
+53,Female,189,111,Sedentary,Pescatarian,2180,177,122,35.4,1963,244,29.28,31,"Weight Gain, Hypertension, Heart Disease"
+45,Female,176,110,Lightly Active,Pescatarian,1839,53,103,10.6,1891,206,24.72,95,"Weight Gain, Kidney Disease"
+24,Female,187,97,Sedentary,Vegetarian,1817,77,110.5,15.4,1732,221,26.52,60,"Weight Gain, Kidney Disease"
+32,Male,157,70,Very Active,Vegan,1598,136,162.5,27.2,2258,325,39,46,"Weight Gain, Hypertension, Heart Disease"
+46,Female,159,116,Sedentary,Omnivore,2764,161,110,32.2,2118,220,26.4,66,Weight Gain
+52,Female,179,98,Moderately Active,Vegetarian,1806,65,183.5,13,2601,367,44.04,97,"Weight Gain, Kidney Disease"
+73,Male,191,98,Sedentary,Vegetarian,1567,125,93.5,25,1707,187,22.44,51,Weight Gain
+31,Male,158,89,Very Active,Vegan,1859,176,152.5,35.2,2275,305,36.6,39,"Weight Gain, Hypertension, Heart Disease"
+47,Female,164,77,Moderately Active,Pescatarian,2704,73,142,14.6,1887,284,34.08,51,"Weight Gain, Kidney Disease"
+42,Female,162,103,Moderately Active,Vegan,2500,107,75,21.4,1487,150,18,51,Weight Gain
+53,Female,161,108,Lightly Active,Omnivore,2158,101,167,20.2,2280,334,40.08,60,Weight Gain
+31,Female,176,91,Very Active,Omnivore,1962,109,173.5,21.8,2175,347,41.64,39,"Weight Gain, Hypertension, Heart Disease"
+55,Female,198,75,Sedentary,Vegan,2624,52,94,10.4,1419,188,22.56,51,"Weight Gain, Kidney Disease"
+47,Male,170,95,Moderately Active,Vegetarian,2003,153,144,30.6,2448,288,34.56,76,Weight Gain
+45,Female,155,73,Lightly Active,Vegan,2114,107,113,21.4,2205,226,27.12,97,Weight Gain
+38,Female,160,106,Sedentary,Vegan,1587,117,146.5,23.4,2378,293,35.16,82,Weight Gain
+24,Female,188,77,Very Active,Vegan,2981,115,82.5,23,1795,165,19.8,75,Weight Gain
+79,Male,158,102,Very Active,Pescatarian,1566,139,160.5,27.8,2398,321,38.52,62,Weight Gain
+74,Female,194,110,Very Active,Vegan,2210,62,80.5,12.4,1270,161,19.32,42,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+20,Male,185,95,Very Active,Pescatarian,2342,99,124,19.8,1658,248,29.76,30,"Hypertension, Heart Disease"
+41,Male,193,61,Lightly Active,Vegetarian,2857,110,98.5,22,1696,197,23.64,52,Weight Gain
+37,Female,170,98,Sedentary,Pescatarian,2428,174,95,34.8,2230,190,22.8,86,Weight Gain
+57,Male,198,87,Moderately Active,Vegetarian,2150,153,120,30.6,2148,240,28.8,64,Weight Gain
+52,Female,187,104,Lightly Active,Omnivore,1975,59,124,11.8,2029,248,29.76,89,"Weight Gain, Kidney Disease"
+31,Female,186,113,Lightly Active,Omnivore,1847,83,195,16.6,2315,390,46.8,47,"Weight Gain, Hypertension, Heart Disease"
+33,Female,175,95,Very Active,Omnivore,1974,77,166,15.4,2374,332,39.84,82,"Weight Gain, Kidney Disease"
+30,Female,163,78,Moderately Active,Vegetarian,2749,90,95.5,18,1394,191,22.92,30,"Hypertension, Heart Disease"
+43,Male,188,74,Moderately Active,Pescatarian,1549,117,80,23.4,1990,160,19.2,98,Weight Gain
+66,Female,190,60,Sedentary,Vegetarian,2640,66,185.5,13.2,2180,371,44.52,48,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+19,Male,190,62,Lightly Active,Vegan,2237,135,156.5,27,2548,313,37.56,84,Weight Gain
+57,Male,154,97,Very Active,Pescatarian,1644,58,112,11.6,1785,224,26.88,73,"Weight Gain, Kidney Disease"
+49,Male,157,112,Moderately Active,Pescatarian,2014,78,135,15.6,1815,270,32.4,47,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+32,Female,158,57,Sedentary,Pescatarian,2248,140,117,28,1874,234,28.08,42,"Weight Gain, Hypertension, Heart Disease"
+33,Male,172,101,Lightly Active,Pescatarian,1512,123,194.5,24.6,2696,389,46.68,72,Weight Gain
+73,Male,186,63,Very Active,Vegan,2131,101,91.5,20.2,1820,183,21.96,76,Weight Gain
+32,Male,170,107,Very Active,Omnivore,2442,79,130,15.8,2148,260,31.2,88,"Weight Gain, Kidney Disease"
+66,Female,155,63,Sedentary,Pescatarian,1595,147,99.5,29.4,1915,199,23.88,59,Weight Gain
+66,Male,162,83,Very Active,Vegan,2904,125,145,25,2200,290,34.8,60,Weight Gain
+29,Male,180,58,Lightly Active,Vegan,2751,114,149.5,22.8,1949,299,35.88,33,"Weight Gain, Hypertension, Heart Disease"
+56,Female,183,71,Lightly Active,Omnivore,1858,53,144,10.6,1769,288,34.56,45,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+23,Male,199,87,Very Active,Pescatarian,2965,80,127,16,1705,254,30.48,41,"Weight Gain, Hypertension, Heart Disease"
+49,Male,181,90,Lightly Active,Vegetarian,2729,102,162.5,20.4,2347,325,39,71,Weight Gain
+59,Male,163,111,Lightly Active,Pescatarian,2571,80,129.5,16,2076,259,31.08,80,Weight Gain
+21,Male,172,98,Sedentary,Vegetarian,2669,97,96,19.4,1984,192,23.04,92,Weight Gain
+41,Female,161,86,Moderately Active,Vegan,1699,51,139.5,10.2,1644,279,33.48,36,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+29,Female,169,77,Very Active,Vegetarian,2985,94,180,18.8,2671,360,43.2,95,Weight Gain
+65,Male,187,75,Moderately Active,Pescatarian,1738,109,98.5,21.8,1773,197,23.64,61,Weight Gain
+51,Female,186,71,Lightly Active,Vegetarian,2235,50,141.5,10,2007,283,33.96,75,Kidney Disease
+64,Male,197,114,Lightly Active,Vegan,2805,99,97.5,19.8,1896,195,23.4,80,Weight Gain
+47,Male,198,96,Lightly Active,Vegan,1560,61,81.5,12.2,1319,163,19.56,47,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+71,Female,199,119,Lightly Active,Pescatarian,1842,115,94,23,1743,188,22.56,59,Weight Gain
+18,Female,197,96,Moderately Active,Pescatarian,2294,95,126,19,1685,252,30.24,33,"Weight Gain, Hypertension, Heart Disease"
+31,Male,187,70,Sedentary,Vegan,2876,150,198.5,30,2476,397,47.64,32,"Weight Gain, Hypertension, Heart Disease"
+68,Male,169,95,Lightly Active,Omnivore,2874,106,81,21.2,1450,162,19.44,42,"Weight Gain, Hypertension, Heart Disease"
+50,Female,198,71,Sedentary,Vegan,1616,124,160.5,24.8,2221,321,38.52,49,"Weight Gain, Hypertension, Heart Disease"
+47,Female,179,60,Lightly Active,Pescatarian,2135,58,173,11.6,2264,346,41.52,72,"Weight Gain, Kidney Disease"
+71,Male,191,68,Lightly Active,Pescatarian,1707,168,75,33.6,1569,150,18,33,"Weight Gain, Hypertension, Heart Disease"
+29,Female,181,82,Sedentary,Omnivore,2862,54,182.5,10.8,2306,365,43.8,70,"Weight Gain, Kidney Disease"
+53,Female,170,84,Sedentary,Pescatarian,2229,55,188.5,11,2592,377,45.24,96,"Weight Gain, Kidney Disease"
+65,Male,192,84,Moderately Active,Vegan,1850,56,174.5,11.2,2205,349,41.88,65,"Weight Gain, Kidney Disease"
+39,Female,175,91,Sedentary,Pescatarian,2000,168,136.5,33.6,2178,273,32.76,46,"Weight Gain, Hypertension, Heart Disease"
+33,Male,156,110,Sedentary,Pescatarian,2708,74,133,14.8,2179,266,31.92,91,"Weight Gain, Kidney Disease"
+25,Male,192,90,Moderately Active,Omnivore,1630,87,157,17.4,2261,314,37.68,73,Weight Gain
+46,Male,174,118,Moderately Active,Pescatarian,2130,158,137,31.6,2007,274,32.88,31,"Weight Gain, Hypertension, Heart Disease"
+72,Female,151,92,Moderately Active,Vegan,2391,143,172,28.6,2506,344,41.28,62,Weight Gain
+30,Male,164,101,Sedentary,Vegan,2493,146,89,29.2,2133,178,21.36,93,Weight Gain
+51,Male,178,63,Sedentary,Vegetarian,2700,126,119.5,25.2,2279,239,28.68,91,Weight Gain
+34,Male,175,55,Moderately Active,Vegetarian,1511,98,171,19.6,2399,342,41.04,71,Weight Gain
+56,Female,197,93,Sedentary,Vegan,2235,112,184.5,22.4,2212,369,44.28,32,"Weight Gain, Hypertension, Heart Disease"
+43,Male,179,94,Moderately Active,Vegetarian,2845,109,166,21.8,2448,332,39.84,76,Weight Gain
+41,Female,176,75,Sedentary,Omnivore,2719,115,138.5,23,1874,277,33.24,34,"Weight Gain, Hypertension, Heart Disease"
+20,Female,192,57,Moderately Active,Pescatarian,2640,54,98,10.8,1297,196,23.52,33,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+57,Female,180,72,Sedentary,Vegan,1671,102,107,20.4,2137,214,25.68,97,Weight Gain
+54,Male,171,57,Lightly Active,Vegan,1541,174,171,34.8,2586,342,41.04,58,Weight Gain
+36,Male,196,102,Lightly Active,Omnivore,2493,91,78.5,18.2,1883,157,18.84,99,Weight Gain
+69,Female,197,112,Moderately Active,Omnivore,2347,103,187,20.6,2673,374,44.88,85,Weight Gain
+34,Female,176,116,Lightly Active,Vegetarian,1637,91,118,18.2,2145,236,28.32,93,Weight Gain
+24,Female,183,118,Moderately Active,Omnivore,1888,152,118.5,30.4,1826,237,28.44,30,"Hypertension, Heart Disease"
+32,Male,152,88,Sedentary,Vegan,2895,149,102,29.8,2096,204,24.48,76,Weight Gain
+31,Female,199,93,Moderately Active,Omnivore,1574,54,83.5,10.8,1739,167,20.04,95,"Weight Gain, Kidney Disease"
+77,Male,197,75,Moderately Active,Vegetarian,1884,58,144.5,11.6,2180,289,34.68,88,"Weight Gain, Kidney Disease"
+29,Male,168,72,Lightly Active,Omnivore,2365,115,93.5,23,1991,187,22.44,87,Weight Gain
+61,Male,157,93,Moderately Active,Pescatarian,2214,156,193.5,31.2,2865,387,46.44,77,Weight Gain
+34,Female,186,89,Very Active,Vegetarian,1612,118,140,23.6,2294,280,33.6,78,Weight Gain
+18,Female,190,119,Lightly Active,Vegan,2887,55,138,11,1666,276,33.12,38,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+58,Female,182,79,Sedentary,Vegetarian,2000,85,129,17,2227,258,30.96,95,Weight Gain
+28,Male,199,98,Sedentary,Vegan,2815,132,116.5,26.4,2270,233,27.96,90,Weight Gain
+19,Male,198,86,Moderately Active,Vegetarian,2988,62,142.5,12.4,1784,285,34.2,44,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+53,Female,182,77,Very Active,Vegan,2284,139,189,27.8,2824,378,45.36,84,Weight Gain
+77,Female,165,90,Lightly Active,Vegan,2171,110,184.5,22,2510,369,44.28,66,Weight Gain
+75,Male,184,87,Moderately Active,Omnivore,2910,123,107,24.6,1924,214,25.68,64,Weight Gain
+37,Female,164,97,Very Active,Pescatarian,1661,54,164.5,10.8,1811,329,39.48,31,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+52,Female,152,67,Very Active,Pescatarian,1916,120,122.5,24,1982,245,29.4,58,Weight Gain
+37,Male,175,101,Very Active,Vegetarian,2558,99,189,19.8,2565,378,45.36,73,Weight Gain
+22,Female,177,103,Moderately Active,Pescatarian,2361,105,148,21,2360,296,35.52,84,Weight Gain
+27,Female,152,109,Sedentary,Vegan,2708,100,140.5,20,2208,281,33.72,76,Weight Gain
+70,Male,198,56,Lightly Active,Vegan,1873,105,199,21,2462,398,47.76,50,Weight Gain
+50,Female,153,104,Very Active,Vegetarian,2093,177,190.5,35.4,2997,381,45.72,85,Weight Gain
+39,Male,181,70,Moderately Active,Vegan,2920,70,180.5,14,2453,361,43.32,81,"Weight Gain, Kidney Disease"
+25,Female,165,105,Lightly Active,Vegetarian,2857,74,196.5,14.8,2237,393,47.16,41,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+70,Female,178,65,Lightly Active,Omnivore,2650,174,168,34.8,2751,336,40.32,79,Weight Gain
+21,Female,159,68,Moderately Active,Vegan,1530,107,177,21.4,2699,354,42.48,95,Weight Gain
+78,Male,166,117,Lightly Active,Pescatarian,1503,89,135.5,17.8,2079,271,32.52,71,Weight Gain
+30,Male,163,85,Lightly Active,Pescatarian,2645,99,197,19.8,2539,394,47.28,63,Weight Gain
+32,Female,192,85,Lightly Active,Vegetarian,2216,171,130,34.2,2579,260,31.2,95,Weight Gain
+52,Female,150,71,Sedentary,Pescatarian,2175,125,199.5,25,2393,399,47.88,33,"Weight Gain, Hypertension, Heart Disease"
+18,Male,152,92,Very Active,Omnivore,2273,78,135,15.6,2121,270,32.4,81,"Weight Gain, Kidney Disease"
+22,Male,160,90,Very Active,Pescatarian,1890,86,188.5,17.2,2194,377,45.24,38,"Weight Gain, Hypertension, Heart Disease"
+58,Female,170,90,Moderately Active,Pescatarian,1616,169,124,33.8,2073,248,29.76,45,"Weight Gain, Hypertension, Heart Disease"
+52,Female,169,115,Very Active,Vegan,1719,99,127,19.8,1781,254,30.48,41,"Weight Gain, Hypertension, Heart Disease"
+38,Male,197,57,Very Active,Vegan,1541,172,188,34.4,2669,376,45.12,53,Weight Gain
+32,Male,193,108,Moderately Active,Omnivore,2443,145,137,29,2144,274,32.88,52,Weight Gain
+45,Female,153,90,Sedentary,Omnivore,1612,170,130.5,34,2507,261,31.32,87,Weight Gain
+31,Male,198,66,Sedentary,Vegetarian,2358,168,157.5,33.6,2436,315,37.8,56,Weight Gain
+39,Male,193,75,Very Active,Pescatarian,1701,61,86,12.2,1328,172,20.64,44,"Weight Gain, Hypertension, Heart Disease, Kidney Disease"
+49,Male,193,91,Very Active,Omnivore,2550,129,150,25.8,2355,300,36,71,Weight Gain
+22,Female,155,63,Very Active,Vegan,1526,143,133,28.6,2176,266,31.92,60,Weight Gain
+67,Female,198,91,Moderately Active,Vegetarian,2446,92,192,18.4,2732,384,46.08,92,Weight Gain
+41,Male,168,111,Very Active,Omnivore,2192,116,198,23.2,2588,396,47.52,60,Weight Gain
+61,Female,160,98,Moderately Active,Omnivore,2638,132,75.5,26.4,1942,151,18.12,90,Weight Gain
+71,Female,179,115,Moderately Active,Omnivore,2953,89,113,17.8,2016,226,27.12,84,Weight Gain
+22,Female,193,75,Very Active,Omnivore,1761,154,95,30.8,1844,190,22.8,52,Weight Gain
+68,Male,196,63,Moderately Active,Vegetarian,2039,118,124,23.6,2157,248,29.76,77,Weight Gain
+31,Male,198,103,Sedentary,Vegan,2077,147,171,29.4,2847,342,41.04,99,Weight Gain
+42,Male,168,69,Lightly Active,Pescatarian,1986,107,75,21.4,1451,150,18,47,"Weight Gain, Hypertension, Heart Disease"
