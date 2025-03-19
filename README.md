@@ -52,44 +52,44 @@
 i)Clustering with K-Means:
 
 		Strengths:
-				Ideal for unsupervised segmentation tasks like customer segmentation or nutritional analysis.
-				Performs well on datasets with clear cluster structures.
-				PCA visualization provides strong interpretability.
+			Ideal for unsupervised segmentation tasks like customer segmentation or nutritional analysis.
+			Performs well on datasets with clear cluster structures.
+			PCA visualization provides strong interpretability.
 		
 		Weaknesses:
-				Sensitive to the initial choice of 𝑘 and outliers.
-				Best Use Case: Grouping unlabeled data into distinct categories for actionable insights.
+			Sensitive to the initial choice of 𝑘 and outliers.
+			Best Use Case: Grouping unlabeled data into distinct categories for actionable insights.
 	
 ii)Decision Trees and Random Forests:
 		
 		Strengths:
-				High interpretability with feature importance visualization.
-				Handles both categorical and numerical data effectively.
-				Random Forest is robust to overfitting and generalizes well.
+			High interpretability with feature importance visualization.
+			Handles both categorical and numerical data effectively.
+			Random Forest is robust to overfitting and generalizes well.
 	
 		Weaknesses:
-				Decision Trees alone can overfit small datasets.
-				Best Use Case: Classification tasks where interpretability is crucial (e.g., predicting health risks based on features).
+			Decision Trees alone can overfit small datasets.
+			Best Use Case: Classification tasks where interpretability is crucial (e.g., predicting health risks based on features).
 
 iii)Support Vector Machines:
 		
 		Strengths:
-				Effective for high-dimensional datasets.
-				Excellent performance with a well-tuned kernel.
+			Effective for high-dimensional datasets.
+			Excellent performance with a well-tuned kernel.
 
 		Weaknesses:
-				Computationally expensive for large datasets.
-				Best Use Case: Classification tasks with a clear margin of separation.
+			Computationally expensive for large datasets.
+			Best Use Case: Classification tasks with a clear margin of separation.
 
 iv) DBSCAN:
 		
 		Strengths:
-				Identifies irregular and non-spherical clusters.
-				Robust to noise and outliers.
+			Identifies irregular and non-spherical clusters.
+			Robust to noise and outliers.
 			
 		Weaknesses:
-				Requires fine-tuning of parameters ( and MinPts).
-				Best Use Case: Datasets with noise or clusters of varying densities.
+			Requires fine-tuning of parameters ( and MinPts).
+			Best Use Case: Datasets with noise or clusters of varying densities.
 
 4)OVERALL BEST MODEL
 		
